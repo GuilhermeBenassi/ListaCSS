@@ -1,0 +1,37 @@
+.bodyA{
+    background-color: #9b9999;
+}
+
+.divA{
+    background-color: white;
+    height: 500px;
+    width: 50vw;
+    border: 10px dotted black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+}
+.divAFilhaA{
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+}
+.divB{
+    background-color: rgb(207, 96, 5);
+    height: 100px;
+    width: 30%;
+}
+.divAFilhaB{
+    background-color: rgba(12, 146, 12, 0.836);
+    color: white;
+    font-size: 30px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+    

@@ -1,0 +1,20 @@
+.divA{
+    background-color: rgb(133, 68, 194);
+    height: 250px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;  
+}
+
+.divAFilhaA{
+    background-color: #ff007f;
+    height: 100%;
+    width: 250px;
+    border: 20px solid red;
+}
+
+.divAFilhaB{
+    background-color: aquamarine;
+    height: 88%;
+    width: 30%;
+}

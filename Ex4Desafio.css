@@ -1,0 +1,81 @@
+.divA{
+    background-color: rgba(214, 68, 68, 0.808);
+    border: 10px solid black;
+    width: 75vw;
+    height: 300px;
+}
+
+.divAFilha{
+    margin-top:60px;
+    margin-bottom:60px ;
+    margin-right: 80px;
+    margin-left: 80px;
+    background-color: white;
+    border: 10px solid rgb(8, 10, 138);
+    width: 60vw;
+    height: 150px;
+    
+
+}
+
+#paragrafo{
+    color: rgb(53, 4, 133);
+    font-weight: 1000;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    margin: 60px;
+    justify-content: center;
+}
+
+.divB{
+    margin: 50px;
+    width: 1200px;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:5%;
+}
+
+.divBFilha{
+background-color: blue;
+width: 1000px;
+height: 30px;
+}
+
+.divBFilhaB{
+background-color: purple;
+width: 500px;
+height: 30px;
+}
+.divBFilhaC{
+    background-color: green;
+    height: 30px;
+    width: 750px;
+}
+.divBFilhaD{
+    background-color: yellow;
+    height: 30px;
+    width: 600px;
+}
+.divC{
+    width: 100%;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+}
+.divCFilha{
+    background-color: red;
+    height: 100%;
+    width: 40%;
+}
+.divCFilhaB{
+    background-color: rgba(0, 113, 128, 0.733);
+    height: 100%;
+    width: 25%;
+}
+.divCFilhaC{
+    background-color: greenyellow;
+    height: 100%;
+    width: 35%;
+}
